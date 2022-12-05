@@ -2,4 +2,5 @@
 * .c# linguist-detectable = true  
 * .shaderlab linguist-detectable = false
 * .hlsl linguist-detectable = false
+* .unity3dasset linguist-detectable = false
 
