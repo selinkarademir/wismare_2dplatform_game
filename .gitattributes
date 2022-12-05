@@ -1,3 +1,4 @@
+*. csharp linguist-language= C#
 * .csharp linguist-detectable = true  
 * .shaderlab linguist-detectable = false
 * .hlsl linguist-detectable = false
