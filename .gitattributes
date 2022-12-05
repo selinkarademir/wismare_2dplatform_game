@@ -1,2 +1,1 @@
-* unity3dasset linguist-detectable = false
-
+*.csharp linguist-detectable=true  
