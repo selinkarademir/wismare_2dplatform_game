@@ -1,5 +1,4 @@
-*. csharp linguist-language= csharp
-* .csharp linguist-detectable = true  
-* .shaderlab linguist-detectable = false
-* .hlsl linguist-detectable = false
+*.csharp linguist-detectable = true  
+*.shaderlab linguist-detectable = false
+*.hlsl linguist-detectable = false
 
