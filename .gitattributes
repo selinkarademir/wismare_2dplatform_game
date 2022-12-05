@@ -1,4 +1,6 @@
-# Auto detect text files and perform LF normalization
+//# Auto detect text files and perform LF normalization
+//text = auto
+
 * .c# linguist-detectable = true  
 * .shaderlab linguist-detectable = false
 * .hlsl linguist-detectable = false
